@@ -1,4 +1,4 @@
-# wd-my-cloud-ex2-debian
+# wd-my-cloud-debian
 
 ## Chocker
 
